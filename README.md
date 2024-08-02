@@ -1,7 +1,7 @@
 # Experiment 5 
 
 # Aim
-greatest number, nested greatest number, calculator, switch case 
+gTo study and implement C++ decision making statements 
 
 # Theory
 We learnt how to find the greatest number through if else statements, and even through nested if. We learnt how to use switch cases. 
