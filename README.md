@@ -3,6 +3,9 @@
 # Aim
 gTo study and implement C++ decision making statements 
 
+# software used
+VS code 
+
 # Theory
 We learnt how to find the greatest number through if else statements, and even through nested if. We learnt how to use switch cases. 
 
